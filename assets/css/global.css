@@ -1,0 +1,18 @@
+
+
+.justify-content-between{
+justify-content: space-between;
+}
+.d-flex{
+    display: flex;
+}
+.p-top{
+    padding-top: 32px;
+}
+.m-bottom{
+    margin-bottom: 0;
+}
+
+.p-bottom{
+    padding-bottom: 41px;
+}
